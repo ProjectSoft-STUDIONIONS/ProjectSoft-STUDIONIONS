@@ -2,7 +2,7 @@ name: GitHub YouTube Cards
 on:
   schedule:
     # Runs every hour, on the hour
-    - cron: "22 20 * * *"
+    - cron: "15 21 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,6 +13,13 @@ jobs:
       contents: write
     # Run the GitHub Readme YouTube Cards action
     steps:
-      - uses: ProjectSoft-STUDIONIONS/ProjectSoft-STUDIONIONS/readme-youtube-cards@main
+      - uses: ProjectSoft-STUDIONIONS/ProjectSoft-STUDIONIONSs@main
         with:
           channel_id: UCCetHlZWSx1FJRlZ6JgWzmQ
+          comment_tag_name: EXAMPLE-YOUTUBE-CARDS
+          youtube_api_key: AIzaSyCOT5xGrMn3gyZIMxWl4XuxZvJ0fRx8W90
+          show_duration: true
+          theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
+          theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
+          max_title_lines: 10
+          output_type: html
