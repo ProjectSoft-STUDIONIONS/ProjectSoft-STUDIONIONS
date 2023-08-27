@@ -13,7 +13,7 @@ jobs:
       contents: write
     # Run the GitHub Readme YouTube Cards action
     steps:
-      - uses: ProjectSoft-STUDIONIONS/ProjectSoft-STUDIONIONSs@main
+      - uses: ProjectSoft-STUDIONIONS/ProjectSoft-STUDIONIONS@main
         with:
           channel_id: UCCetHlZWSx1FJRlZ6JgWzmQ
           comment_tag_name: EXAMPLE-YOUTUBE-CARDS
