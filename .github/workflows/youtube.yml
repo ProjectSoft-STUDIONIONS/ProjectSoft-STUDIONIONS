@@ -3,7 +3,7 @@ on:
   schedule:
     # Runs every hour, on the hour
     - cron: "20 20 * * *"
-  workflow_dispatch:
+  workflow_dispatch: YouTube Cards
 
 jobs:
   build:
