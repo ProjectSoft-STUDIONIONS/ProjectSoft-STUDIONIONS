@@ -5,7 +5,7 @@
 <a href="https://mynickname.com/projectsoft" target="_blank">
 	<img src="https://mynickname.com/img.php?nick=ProjectSoft&sert=2&text=t5" alt="Никнейм ProjectSoft зарегистрирован!" border="0" />
 </a>
-
+<p>&nbsp;</p>
 <!-- prettier-ignore-start -->
 <!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=k38pQ8A0ZL0">
