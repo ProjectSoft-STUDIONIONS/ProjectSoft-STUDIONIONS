@@ -44,5 +44,23 @@
     <img src="https://ytcards.demolab.com/?id=axd2JccV8MA&title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9++-%3DProjectSoft%3D--+%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D1%88%D1%91%D0%B2+-+%C2%AB%D0%9E%D0%B1%D0%BB%D0%B0%D0%BA%D0%B0%C2%BB&lang=en&timestamp=1406774003&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=167" alt="Андрей  -=ProjectSoft=-- Чернышёв - «Облака»" title="Андрей  -=ProjectSoft=-- Чернышёв - «Облака»">
   </picture>
 </a>
+<a href="https://www.youtube.com/watch?v=0qifVpp0XWg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0qifVpp0XWg&title=SWF+to+EXE&lang=en&timestamp=1385972136&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=44">
+    <img src="https://ytcards.demolab.com/?id=0qifVpp0XWg&title=SWF+to+EXE&lang=en&timestamp=1385972136&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=44" alt="SWF to EXE" title="SWF to EXE">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=7bmj39y480o">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7bmj39y480o&title=%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9+%D0%A5%D0%BC%D0%B5%D0%BB%D1%91%D0%B2+%22%D0%93%D0%BE%D0%BB%D0%BE%D1%81%22+LiveRecord+%D0%90%D0%BB%D1%8C%D0%BC%D0%B0-%D0%BC%D0%B0%D1%82%D0%B5%D1%80+15+%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F+2012&lang=en&timestamp=1366489083&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=274">
+    <img src="https://ytcards.demolab.com/?id=7bmj39y480o&title=%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9+%D0%A5%D0%BC%D0%B5%D0%BB%D1%91%D0%B2+%22%D0%93%D0%BE%D0%BB%D0%BE%D1%81%22+LiveRecord+%D0%90%D0%BB%D1%8C%D0%BC%D0%B0-%D0%BC%D0%B0%D1%82%D0%B5%D1%80+15+%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F+2012&lang=en&timestamp=1366489083&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=274" alt="Дмитрий Хмелёв &quot;Голос&quot; LiveRecord Альма-матер 15 декабря 2012" title="Дмитрий Хмелёв &quot;Голос&quot; LiveRecord Альма-матер 15 декабря 2012">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=NvHlKKMatsw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NvHlKKMatsw&title=STUDIONIONS&lang=en&timestamp=1328182548&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=58">
+    <img src="https://ytcards.demolab.com/?id=NvHlKKMatsw&title=STUDIONIONS&lang=en&timestamp=1328182548&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=58" alt="STUDIONIONS" title="STUDIONIONS">
+  </picture>
+</a>
 <!-- END EXAMPLE-YOUTUBE-CARDS -->
 <!-- prettier-ignore-end -->
