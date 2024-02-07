@@ -7,6 +7,24 @@
 <p>&nbsp;</p>
 <!-- prettier-ignore-start -->
 <!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=OM5D0DaQEmE">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OM5D0DaQEmE&title=%D0%AD%D0%9A%D0%A1%D0%9A%D0%90%D0%92%D0%90%D0%A2%D0%9E%D0%A0-%D0%9F%D0%9E%D0%93%D0%A0%D0%A3%D0%97%D0%A7%D0%98%D0%9A+ROAD+STAR+YC-B30VH&lang=en&timestamp=1707307307&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=59">
+    <img src="https://ytcards.demolab.com/?id=OM5D0DaQEmE&title=%D0%AD%D0%9A%D0%A1%D0%9A%D0%90%D0%92%D0%90%D0%A2%D0%9E%D0%A0-%D0%9F%D0%9E%D0%93%D0%A0%D0%A3%D0%97%D0%A7%D0%98%D0%9A+ROAD+STAR+YC-B30VH&lang=en&timestamp=1707307307&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=59" alt="ЭКСКАВАТОР-ПОГРУЗЧИК ROAD STAR YC-B30VH" title="ЭКСКАВАТОР-ПОГРУЗЧИК ROAD STAR YC-B30VH">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=v1id_CkKj28">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v1id_CkKj28&title=%D0%9F%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA%D0%B8+ROAD+STAR&lang=en&timestamp=1707305931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=21">
+    <img src="https://ytcards.demolab.com/?id=v1id_CkKj28&title=%D0%9F%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA%D0%B8+ROAD+STAR&lang=en&timestamp=1707305931&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=21" alt="Погрузчики ROAD STAR" title="Погрузчики ROAD STAR">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=YoTPnRT1Xms">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YoTPnRT1Xms&title=%D0%9C%D0%B8%D0%BD%D0%B8%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA+ROAD+STAR.&lang=en&timestamp=1707290357&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=59">
+    <img src="https://ytcards.demolab.com/?id=YoTPnRT1Xms&title=%D0%9C%D0%B8%D0%BD%D0%B8%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA+ROAD+STAR.&lang=en&timestamp=1707290357&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=59" alt="Минипогрузчик ROAD STAR." title="Минипогрузчик ROAD STAR.">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=k38pQ8A0ZL0">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k38pQ8A0ZL0&title=%D0%92%D0%B8%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9+%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA+HELI+CPD50+%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%BF%D0%BE%D0%B4%D1%8A%D1%91%D0%BC%D0%BD%D0%BE%D1%81%D1%82%D1%8C%D1%8E+5+%D1%82%D0%BE%D0%BD%D0%BD+%D1%81+%D0%BE%D1%82%D0%B0%D0%BF%D0%BB%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D0%BE%D0%B9+%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%BE%D0%B9&lang=en&timestamp=1691487350&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=69">
@@ -77,24 +95,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=28_dArmpYuA&title=%D0%9C%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80+Mini+Forest+%D0%B4%D0%BB%D1%8F+%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B0&lang=en&timestamp=1643357515&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=61">
     <img src="https://ytcards.demolab.com/?id=28_dArmpYuA&title=%D0%9C%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80+Mini+Forest+%D0%B4%D0%BB%D1%8F+%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B0&lang=en&timestamp=1643357515&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=61" alt="Мульчер Mini Forest для трактора" title="Мульчер Mini Forest для трактора">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=zQSWFLwRwYI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zQSWFLwRwYI&title=%D0%9B%D0%B5%D1%81%D0%BD%D0%BE%D0%B9+%D0%BC%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80+Nuibo+Super+Forest&lang=en&timestamp=1643357443&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=431">
-    <img src="https://ytcards.demolab.com/?id=zQSWFLwRwYI&title=%D0%9B%D0%B5%D1%81%D0%BD%D0%BE%D0%B9+%D0%BC%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80+Nuibo+Super+Forest&lang=en&timestamp=1643357443&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=431" alt="Лесной мульчер Nuibo Super Forest" title="Лесной мульчер Nuibo Super Forest">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=gr4vCDobKUc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gr4vCDobKUc&title=Nuibo+%D0%9C%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80+Super+Forest+%D0%B4%D0%BB%D1%8F+%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B0&lang=en&timestamp=1643357341&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=205">
-    <img src="https://ytcards.demolab.com/?id=gr4vCDobKUc&title=Nuibo+%D0%9C%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80+Super+Forest+%D0%B4%D0%BB%D1%8F+%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B0&lang=en&timestamp=1643357341&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=205" alt="Nuibo Мульчер Super Forest для трактора" title="Nuibo Мульчер Super Forest для трактора">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=j74awttbypE">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=j74awttbypE&title=%D0%91%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9+%D0%B2%D0%B8%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9+%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA+HELI+CCCD30&lang=en&timestamp=1628355880&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=60">
-    <img src="https://ytcards.demolab.com/?id=j74awttbypE&title=%D0%91%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9+%D0%B2%D0%B8%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9+%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA+HELI+CCCD30&lang=en&timestamp=1628355880&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=60" alt="Боковой вилочный погрузчик HELI CCCD30" title="Боковой вилочный погрузчик HELI CCCD30">
   </picture>
 </a>
 <!-- END EXAMPLE-YOUTUBE-CARDS -->
