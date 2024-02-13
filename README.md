@@ -7,6 +7,12 @@
 <p>&nbsp;</p>
 <!-- prettier-ignore-start -->
 <!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=_2dPwJcfHyo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_2dPwJcfHyo&title=%D0%9E%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D0%BE%D0%B9+%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA+%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D1%82%D1%81%D1%8F+%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA%D1%83.+%D0%9A%D1%81%D1%82%D0%B0%D1%82%D0%B8%2C+%D0%BE%D0%BD+%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9.&lang=en&timestamp=1707813107&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=25">
+    <img src="https://ytcards.demolab.com/?id=_2dPwJcfHyo&title=%D0%9E%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D0%BE%D0%B9+%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA+%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D1%82%D1%81%D1%8F+%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA%D1%83.+%D0%9A%D1%81%D1%82%D0%B0%D1%82%D0%B8%2C+%D0%BE%D0%BD+%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9.&lang=en&timestamp=1707813107&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=25" alt="Очередной погрузчик отправляется заказчику. Кстати, он электрический." title="Очередной погрузчик отправляется заказчику. Кстати, он электрический.">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=OM5D0DaQEmE">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OM5D0DaQEmE&title=%D0%AD%D0%9A%D0%A1%D0%9A%D0%90%D0%92%D0%90%D0%A2%D0%9E%D0%A0-%D0%9F%D0%9E%D0%93%D0%A0%D0%A3%D0%97%D0%A7%D0%98%D0%9A+ROAD+STAR+YC-B30VH&lang=en&timestamp=1707307307&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=59">
@@ -89,12 +95,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cyi5swIEhlQ&title=%D0%9C%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80%D1%8B+Diamond%2C+Multy+Diamond+%D0%BE%D1%82+Nuibo&lang=en&timestamp=1643357594&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=73">
     <img src="https://ytcards.demolab.com/?id=Cyi5swIEhlQ&title=%D0%9C%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80%D1%8B+Diamond%2C+Multy+Diamond+%D0%BE%D1%82+Nuibo&lang=en&timestamp=1643357594&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=73" alt="Мульчеры Diamond, Multy Diamond от Nuibo" title="Мульчеры Diamond, Multy Diamond от Nuibo">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=28_dArmpYuA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=28_dArmpYuA&title=%D0%9C%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80+Mini+Forest+%D0%B4%D0%BB%D1%8F+%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B0&lang=en&timestamp=1643357515&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=61">
-    <img src="https://ytcards.demolab.com/?id=28_dArmpYuA&title=%D0%9C%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80+Mini+Forest+%D0%B4%D0%BB%D1%8F+%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B0&lang=en&timestamp=1643357515&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=61" alt="Мульчер Mini Forest для трактора" title="Мульчер Mini Forest для трактора">
   </picture>
 </a>
 <!-- END EXAMPLE-YOUTUBE-CARDS -->
