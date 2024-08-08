@@ -10,4 +10,5 @@
 - [Колёсный экскаватор-погрузчик YC-B325V](https://www.skat59.ru/catalogue/road-star/yc-b325v.html)
 <!-- BLOG-POST-LIST:END -->
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mitoteam/jpgraph&type=Date)](https://star-history.com/#mitoteam/jpgraph&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=bobrovka-school/gbou-school&type=Date)](https://star-history.com/#bobrovka-school/gbou-school&Date)
+https://github.com/
