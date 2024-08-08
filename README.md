@@ -9,3 +9,5 @@
 - [Мини-экскаватор Yuchai YC27-SR &lpar;YC U27&rpar;](https://www.skat59.ru/information/video/mini-ekskavator-yuchai-yc27-sr-yc-u27.html)
 - [Колёсный экскаватор-погрузчик YC-B325V](https://www.skat59.ru/catalogue/road-star/yc-b325v.html)
 <!-- BLOG-POST-LIST:END -->
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mitoteam/jpgraph&type=Date)](https://star-history.com/#mitoteam/jpgraph&Date)
