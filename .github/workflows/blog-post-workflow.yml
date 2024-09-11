@@ -16,7 +16,7 @@ jobs:
       - name: Pull in skat59.ru posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          output_only: true
+          output_only: false
+          readme_path: ./README.md
           max_post_count: 20
           feed_list: "https://www.skat59.ru/rss.xml"
-      - run: cat /tmp/blog_post_workflow_output.json
