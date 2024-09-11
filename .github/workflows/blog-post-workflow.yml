@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in skat59.ru posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           output_only: true
           max_post_count: 20
