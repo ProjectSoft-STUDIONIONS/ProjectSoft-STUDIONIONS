@@ -1,6 +1,7 @@
 # ProjectSoft
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ProjectSoft-STUDIONIONS&locale=ru&mode=weekly)
 
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [СВР-39](https://www.skat59.ru/information/video/svr-39.html)
