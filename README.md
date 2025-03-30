@@ -1,7 +1,6 @@
 # ProjectSoft
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ProjectSoft-STUDIONIONS&locale=ru&mode=weekly)
 
-
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Амкодор - сельхозхозяйственная техника](https://www.skat59.ru/information/video/amkodor-selhozhozyajstvennaya-tehnika.html)
