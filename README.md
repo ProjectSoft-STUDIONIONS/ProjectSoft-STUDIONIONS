@@ -3,6 +3,7 @@
 
 ![ProjectSoft's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProjectSoft-STUDIONIONS)
 
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Сферы применения универсальных шарнирно-сочлененных минипогрузчиков TAIAN](https://www.skat59.ru/information/video/sfery-primeneniya-universalnyh-sharnirno-sochlenennyh-minipogruzchikov-taian.html)
