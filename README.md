@@ -1,6 +1,7 @@
 # ProjectSoft
+[![](https://github-readme-stats.vercel.app/api?username=ProjectSoft-STUDIONIONS&rank_icon=percentile)](https://t.me/ProjectSoft)
 Telegram [@ProjectSoft](https://t.me/ProjectSoft)
-## Blog posts
+## Техника
 <!-- BLOG-POST-LIST:START -->
 - [ЛЕСОЗАГОТОВИТЕЛЬНАЯ ТЕХНИКА АМКОДОР](https://www.skat59.ru/information/video/lesozagotovitelnaya-tehnika.html)
 - [Машина трелевочная АМКОДОР 2242B](https://www.skat59.ru/information/video/mashina-trelevochnaya-amkodor-2242b.html)
