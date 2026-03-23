@@ -2,12 +2,12 @@
 [![](https://github-readme-stats.vercel.app/api?username=ProjectSoft-STUDIONIONS&show_icons=true&custom_title=ProjectSoft%20GitHub&rank_icon=percentile&ring_color=2f80ed)](https://t.me/ProjectSoft)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectSoft-STUDIONIONS&layout=compact&langs_count=14&card_width=320&custom_title=Languages)](https://t.me/ProjectSoft)
 
-[![evoFileManagerDialog](https://github-readme-stats.vercel.app/api/pin/?username=ProjectSoft-STUDIONIONS&show_owner=true&repo=evoFileManagerDialog&locale=ru)](https://github.com/ProjectSoft-STUDIONIONS/evoFileManagerDialog)
+[![evoFileManagerDialog](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=evoFileManagerDialog)](https://github.com/ProjectSoft-STUDIONIONS/evoFileManagerDialog)
 [![food-module](https://github-readme-stats.vercel.app/api/pin/?username=ProjectSoft-STUDIONIONS&show_owner=true&repo=food-module&locale=ru)](https://github.com/ProjectSoft-STUDIONIONS/food-module)
-[![food-uploader-plugin](https://github-readme-stats.vercel.app/api/pin/?username=ProjectSoft-STUDIONIONS&show_owner=true&locale=ru&repo=food-uploader-plugin)](https://github.com/ProjectSoft-STUDIONIONS/food-uploader-plugin)
-[![com_food](https://github-readme-stats.vercel.app/api/pin/?username=ProjectSoft-STUDIONIONS&show_owner=true&locale=ru&repo=com_food)](https://github.com/ProjectSoft-STUDIONIONS/com_food)
-[![FontMassivePackInstaller](https://github-readme-stats.vercel.app/api/pin/?username=ProjectSoft-STUDIONIONS&show_owner=true&locale=ru&repo=FontMassivePackInstaller)](https://github.com/ProjectSoft-STUDIONIONS/FontMassivePackInstaller)
-[![EvolutionCMS-Utilites](https://github-readme-stats.vercel.app/api/pin/?username=ProjectSoft-STUDIONIONS&show_owner=true&locale=ru&repo=EvolutionCMS-Utilites)](https://github.com/ProjectSoft-STUDIONIONS/EvolutionCMS-Utilites)
+[![food-uploader-plugin](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=food-uploader-plugin)](https://github.com/ProjectSoft-STUDIONIONS/food-uploader-plugin)
+[![com_food](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=com_food)](https://github.com/ProjectSoft-STUDIONIONS/com_food)
+[![FontMassivePackInstaller](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=FontMassivePackInstaller)](https://github.com/ProjectSoft-STUDIONIONS/FontMassivePackInstaller)
+[![EvolutionCMS-Utilites](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=EvolutionCMS-Utilites)](https://github.com/ProjectSoft-STUDIONIONS/EvolutionCMS-Utilites)
 
 Telegram [@ProjectSoft](https://t.me/ProjectSoft)
 ## Техника
