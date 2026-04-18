@@ -2,6 +2,7 @@
 [![](https://github-readme-stats.vercel.app/api?username=ProjectSoft-STUDIONIONS&show_icons=true&custom_title=ProjectSoft%20GitHub&rank_icon=percentile&ring_color=2f80ed)](https://t.me/ProjectSoft)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectSoft-STUDIONIONS&layout=compact&langs_count=14&card_width=320&custom_title=Languages)](https://t.me/ProjectSoft)
 
+[![module-pdf-metadata](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=module-pdf-metadata)](https://github.com/ProjectSoft-STUDIONIONS/module-pdf-metadata)
 [![evoFileManagerDialog](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=evoFileManagerDialog)](https://github.com/ProjectSoft-STUDIONIONS/evoFileManagerDialog)
 [![food-module](https://github-readme-stats.vercel.app/api/pin/?username=ProjectSoft-STUDIONIONS&show_owner=true&repo=food-module&locale=ru)](https://github.com/ProjectSoft-STUDIONIONS/food-module)
 [![food-uploader-plugin](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=food-uploader-plugin)](https://github.com/ProjectSoft-STUDIONIONS/food-uploader-plugin)
