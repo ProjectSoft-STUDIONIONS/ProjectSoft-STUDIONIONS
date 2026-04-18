@@ -4,7 +4,7 @@
 
 [![module-pdf-metadata](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=module-pdf-metadata)](https://github.com/ProjectSoft-STUDIONIONS/module-pdf-metadata)
 [![evoFileManagerDialog](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=evoFileManagerDialog)](https://github.com/ProjectSoft-STUDIONIONS/evoFileManagerDialog)
-[![food-module](https://github-readme-stats.vercel.app/api/pin/?username=ProjectSoft-STUDIONIONS&show_owner=true&repo=food-module&locale=ru)](https://github.com/ProjectSoft-STUDIONIONS/food-module)
+[![food-module](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=food-module)](https://github.com/ProjectSoft-STUDIONIONS/food-module)
 [![food-uploader-plugin](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=food-uploader-plugin)](https://github.com/ProjectSoft-STUDIONIONS/food-uploader-plugin)
 [![com_food](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=com_food)](https://github.com/ProjectSoft-STUDIONIONS/com_food)
 [![FontMassivePackInstaller](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=FontMassivePackInstaller)](https://github.com/ProjectSoft-STUDIONIONS/FontMassivePackInstaller)
