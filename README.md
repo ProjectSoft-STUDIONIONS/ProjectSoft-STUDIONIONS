@@ -14,7 +14,6 @@
 [![NotoColorEmoji-TinyMCE4](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=NotoColorEmoji-TinyMCE4)](https://github.com/ProjectSoft-STUDIONIONS/NotoColorEmoji-TinyMCE4)
 [![radioApp-lite](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=radioApp-lite)](https://github.com/ProjectSoft-STUDIONIONS/radioApp-lite)
 
-
 Telegram [@ProjectSoft](https://t.me/ProjectSoft)
 
 VK [ProjectSoft](https://vk.com/projectsoft)
