@@ -10,6 +10,10 @@
 [![FontMassivePackInstaller](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=FontMassivePackInstaller)](https://github.com/ProjectSoft-STUDIONIONS/FontMassivePackInstaller)
 [![EvolutionCMS-Utilites](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=EvolutionCMS-Utilites)](https://github.com/ProjectSoft-STUDIONIONS/EvolutionCMS-Utilites)
 [![scan-images-menu2pdf](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=scan-images-menu2pdf)](https://github.com/ProjectSoft-STUDIONIONS/scan-images-menu2pdf)
+[![tinymce-codemirror-evolutioncms](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=tinymce-codemirror-evolutioncms)](https://github.com/ProjectSoft-STUDIONIONS/tinymce-codemirror-evolutioncms)
+[![NotoColorEmoji-TinyMCE4](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=NotoColorEmoji-TinyMCE4)](https://github.com/ProjectSoft-STUDIONIONS/NotoColorEmoji-TinyMCE4)
+[![radioApp-lite](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=radioApp-lite)](https://github.com/ProjectSoft-STUDIONIONS/radioApp-lite)
+
 
 Telegram [@ProjectSoft](https://t.me/ProjectSoft)
 
