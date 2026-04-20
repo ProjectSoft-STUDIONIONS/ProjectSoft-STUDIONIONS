@@ -9,6 +9,7 @@
 [![com_food](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=com_food)](https://github.com/ProjectSoft-STUDIONIONS/com_food)
 [![FontMassivePackInstaller](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=FontMassivePackInstaller)](https://github.com/ProjectSoft-STUDIONIONS/FontMassivePackInstaller)
 [![EvolutionCMS-Utilites](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=EvolutionCMS-Utilites)](https://github.com/ProjectSoft-STUDIONIONS/EvolutionCMS-Utilites)
+[![scan-images-menu2pdf](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&description_lines_count=3&show_owner=false&locale=ru&username=ProjectSoft-STUDIONIONS&repo=scan-images-menu2pdf)](https://github.com/ProjectSoft-STUDIONIONS/scan-images-menu2pdf)
 
 Telegram [@ProjectSoft](https://t.me/ProjectSoft)
 
